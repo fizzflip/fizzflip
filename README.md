@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VapourWaveRider
+- 👋 Hi, I’m @fizzflip
 - 👀 I’m interested in Computational Mathematics.
 - 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on nothing (atm).
