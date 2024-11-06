@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing (atm).
 - ⚡ Fun fact: I have gills.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d72a11553501e3c3f61cbf?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66d72a11553501e3c3f61cbf?variant=dark&roadmaps=linux%2Cdocker%2Cpython%2Cjava)](https://roadmap.sh)
 
 <!---
 VapourWaveRider/VapourWaveRider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
