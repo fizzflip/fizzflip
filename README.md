@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @fizzflip
-- 👀 I’m interested in Computational Mathematics.
-- 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on nothing (atm).
-- ⚡ Fun fact: I have gills.
+Hey, I'm @fizzflip.
+Trying to do ... stuff.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d72a11553501e3c3f61cbf?variant=dark&roadmaps=linux%2Cdocker%2Cpython%2Cjava)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66d72a11553501e3c3f61cbf?variant=dark&roadmaps=linux%2Cdocker%2Cpython%2Cjava)](https://roadmap.sh)
 
 <!---
 VapourWaveRider/VapourWaveRider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
